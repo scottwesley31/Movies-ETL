@@ -1,3 +1,10 @@
+# For files that are too large (>100.00 MB)
+ratings.csv
+movies_metadata.csv
+
+# For potential API keys
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
